@@ -9,6 +9,9 @@
 // AAA
 // BBB
 
+// CCC
+// DDD
+
 #import <UIKit/UIKit.h>
 
 @interface DummyPrjAppDelegate : NSObject <UIApplicationDelegate> {
